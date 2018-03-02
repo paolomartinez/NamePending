@@ -8,13 +8,13 @@ Very simple, might end up finishing too early
 Could focus on really good UX if finished early?
 Would have to ensure that each feature of the app has equal work/focus put into it so one feature isn’t really good and the rest are lackluster
 
-User Stories
-[x] User can create their own profile with different lists of tasks/goals
-[x] These lists can contain different music playlists
-[x] User can create list of their goals
-[x] User can enable Do Not Disturb 
-[x] User can select/listen to study music
-[x] User can activate a timer in order to help them focus (Pomodoro technique)
+# User Stories
+User can create their own profile with different lists of tasks/goals
+These lists can contain different music playlists
+User can create list of their goals
+User can enable Do Not Disturb 
+User can select/listen to study music
+User can activate a timer in order to help them focus (Pomodoro technique)
 
 Music App
 could this be for dancers to meetup and session too?
