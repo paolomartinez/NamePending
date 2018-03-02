@@ -6,7 +6,7 @@ We are currently deciding between a Study App or Music App
 
 
 ## Study App User Stories
--[x] User can create their own profile with different lists of tasks/goals
+- [x] User can create their own profile with different lists of tasks/goals
 These lists can contain different music playlists
 User can create list of their goals
 User can enable Do Not Disturb 
