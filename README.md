@@ -18,3 +18,5 @@ We are currently deciding between a Study App or Music App
 - [ ] Profile can contain a sample video of the user’s work
 - [ ] User can see what musicians are near their location
 - [ ] User can message the nearby musicians
+
+![Video Walkthrough](https://media.giphy.com/media/2wZUPFkLWBKHP5HCJg/giphy.gif)
